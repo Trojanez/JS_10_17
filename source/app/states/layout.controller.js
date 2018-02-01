@@ -35,7 +35,12 @@ angular
                     name: 'Shlyahov',
                     state: 'layout.shlyahov',
                     image: 'https://c1.staticflickr.com/9/8170/8049613589_7ce9727537.jpg',
+                }, {
+                    name: 'Degtyar',
+                    state: 'layout.max',
+                    image: 'https://2019-god.com/wp-content/uploads/2017/11/krolik-on.jpg',
                 }
+
             ]
         };
 

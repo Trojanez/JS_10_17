@@ -12,7 +12,8 @@ angular
         'layout.shlyahov',
         'layout.psv',
         'layout.chotiy', 
-        'layout.dieieva'
+        'layout.dieieva',
+        'layout.max'
     ])
 
     .config( function ( $stateProvider ) {
