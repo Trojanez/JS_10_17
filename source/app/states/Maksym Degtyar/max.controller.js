@@ -5,7 +5,7 @@ angular
 
     .module('layout.max')
 
-    .controller('maxController', function ( $scope, fromRoot ) {
+    .controller('maxController', function ( $scope, $log, fromRoot ) {
     	var vm = $scope.vm = {
             fromRoot: fromRoot,
             connections: [
@@ -19,5 +19,4 @@ angular
                 }
             ]
         };
-
     });
